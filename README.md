@@ -1,7 +1,7 @@
 <h1>SPACE SHIPS 🚀</h1>
 
 <h2>Description 🤔</h2>
-<p>This is a videogame that I have created with the help of the SDL2 graphics libraries. It is programmed in C++ in the Visual Studio integrated development environment. It's about a spaceship that you control to shoot the UFO-shaped enemies with a laser.</p>
+<p align="justify">This is a videogame that I have created with the help of the SDL2 graphics libraries. It is programmed in C++ in the Visual Studio integrated development environment. It's about a spaceship that you control to shoot the UFO-shaped enemies with a laser.</p>
 
 </br>
 <p align="center">
